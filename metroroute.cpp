@@ -152,7 +152,7 @@ int main() {
     vector<string> pinkStations = {"Majlis Park", "Azadpur", "Shalimar Bagh", "Netaji Subhash Place", "Welcome", 
                                    "East Azad Nagar", "Krishna Nagar", "Karkarduma Court", "Karkarduma", 
                                    "Anand Vihar ISBT", "IP Extension", "Vinod Nagar", "Trilokpuri", "Mayur Vihar"};
-    vector<string> blueStations = {"Dwarka Sector 21", "Dwarka", "Rajouri Garden", "Karol Bagh", "Rajiv Chowk", 
+    vector<string> blueStations = {"Dwarka Sector 21","tilak nagar", "Dwarka", "Rajouri Garden", "Karol Bagh", "Rajiv Chowk", 
                                    "Mandi House", "Yamuna Bank", "Karkarduma", "Anand Vihar ISBT", "Vaishali", "Kaushambi"};
 
     // Adding stations to the metro network
